@@ -1,0 +1,6 @@
+{
+  "name": "AIRWISE AI",
+  "description": "Urban air quality intelligence platform with live regional telemetry, personalized family safety guidance, indoor air advisory, low-emission daily planning, and a context-aware Gemini AI assistant.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
